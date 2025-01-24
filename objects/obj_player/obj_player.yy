@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_Skeleton_Idle_Bottom",
-    "path":"sprites/Spr_Skeleton_Idle_Bottom/Spr_Skeleton_Idle_Bottom.yy",
+    "name":"spr_player_idle_down",
+    "path":"sprites/spr_player_idle_down/spr_player_idle_down.yy",
   },
   "spriteMaskId":null,
   "visible":true,
