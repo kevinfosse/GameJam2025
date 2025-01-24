@@ -1,18 +1,18 @@
 {
   "$GMObject":"",
-  "%Name":"obj_battle_run",
-  "eventList":[],
+  "%Name":"obj_battle_player",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_battle_run",
+  "name":"obj_battle_player",
   "overriddenProperties":[],
   "parent":{
     "name":"battle",
     "path":"folders/Objects/battle.yy",
   },
-  "parentObjectId":{
-    "name":"obj_battle_parent",
-    "path":"objects/obj_battle_parent/obj_battle_parent.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite25",
-    "path":"sprites/Sprite25/Sprite25.yy",
+    "name":"Sprite27",
+    "path":"sprites/Sprite27/Sprite27.yy",
   },
   "spriteMaskId":null,
   "visible":true,

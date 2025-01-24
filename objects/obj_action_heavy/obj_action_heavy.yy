@@ -1,15 +1,18 @@
 {
   "$GMObject":"",
-  "%Name":"obj_battle_parent",
+  "%Name":"obj_action_heavy",
   "eventList":[],
   "managed":true,
-  "name":"obj_battle_parent",
+  "name":"obj_action_heavy",
   "overriddenProperties":[],
   "parent":{
     "name":"battle",
     "path":"folders/Objects/battle.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_action_parent",
+    "path":"objects/obj_action_parent/obj_action_parent.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -27,7 +30,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"Sprite24",
+    "path":"sprites/Sprite24/Sprite24.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
