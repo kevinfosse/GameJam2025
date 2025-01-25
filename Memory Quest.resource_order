@@ -1,5 +1,6 @@
 {
   "FolderOrderSettings":[
+    {"name":"dialog","order":6,"path":"folders/Objects/dialog.yy",},
     {"name":"Arrows","order":1,"path":"folders/Sprites/Arrows.yy",},
     {"name":"Backgrounds","order":2,"path":"folders/Sprites/Backgrounds.yy",},
     {"name":"Daron","order":1,"path":"folders/Sprites/Enemies/Daron.yy",},
@@ -9,7 +10,6 @@
     {"name":"obj_commands","order":1,"path":"objects/obj_commands/obj_commands.yy",},
     {"name":"obj_enemy_parent","order":3,"path":"objects/obj_enemy_parent/obj_enemy_parent.yy",},
     {"name":"obj_enemy1","order":4,"path":"objects/obj_enemy1/obj_enemy1.yy",},
-    {"name":"obj_fullscreen","order":1,"path":"objects/obj_fullscreen/obj_fullscreen.yy",},
     {"name":"obj_home","order":4,"path":"objects/obj_home/obj_home.yy",},
     {"name":"obj_level_selector","order":2,"path":"objects/obj_level_selector/obj_level_selector.yy",},
     {"name":"rm_menu","order":4,"path":"rooms/rm_menu/rm_menu.yy",},
@@ -51,7 +51,6 @@
     {"name":"Water_Tile","order":1,"path":"sprites/Water_Tile/Water_Tile.yy",},
     {"name":"Tile_Back","order":1,"path":"tilesets/Tile_Back/Tile_Back.yy",},
     {"name":"Tiles_lvl1","order":2,"path":"tilesets/Tiles_lvl1/Tiles_lvl1.yy",},
-    {"name":"TileSet4","order":3,"path":"tilesets/TileSet4/TileSet4.yy",},
     {"name":"TileSet5","order":4,"path":"tilesets/TileSet5/TileSet5.yy",},
   ],
 }

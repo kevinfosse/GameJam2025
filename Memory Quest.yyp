@@ -16,6 +16,7 @@
     {"$GMFolder":"","%Name":"Notes","folderPath":"folders/Notes.yy","name":"Notes","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"battle","folderPath":"folders/Objects/battle.yy","name":"battle","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"dialog","folderPath":"folders/Objects/dialog.yy","name":"dialog","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"hub","folderPath":"folders/Objects/hub.yy","name":"hub","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"menu","folderPath":"folders/Objects/menu.yy","name":"menu","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"monde1","folderPath":"folders/Objects/monde1.yy","name":"monde1","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -59,6 +60,7 @@
   },
   "name":"Memory Quest",
   "resources":[
+    {"id":{"name":"fnt_dialog","path":"fonts/fnt_dialog/fnt_dialog.yy",},},
     {"id":{"name":"obj_action_heavy","path":"objects/obj_action_heavy/obj_action_heavy.yy",},},
     {"id":{"name":"obj_action_light","path":"objects/obj_action_light/obj_action_light.yy",},},
     {"id":{"name":"obj_action_parent","path":"objects/obj_action_parent/obj_action_parent.yy",},},
@@ -76,6 +78,7 @@
     {"id":{"name":"obj_config_monde2","path":"objects/obj_config_monde2/obj_config_monde2.yy",},},
     {"id":{"name":"obj_config_monde3","path":"objects/obj_config_monde3/obj_config_monde3.yy",},},
     {"id":{"name":"obj_config_parent","path":"objects/obj_config_parent/obj_config_parent.yy",},},
+    {"id":{"name":"obj_dialog_manager","path":"objects/obj_dialog_manager/obj_dialog_manager.yy",},},
     {"id":{"name":"obj_enemy_parent","path":"objects/obj_enemy_parent/obj_enemy_parent.yy",},},
     {"id":{"name":"obj_enemy1","path":"objects/obj_enemy1/obj_enemy1.yy",},},
     {"id":{"name":"obj_home","path":"objects/obj_home/obj_home.yy",},},
