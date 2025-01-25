@@ -1,5 +1,12 @@
 if (is_walking) {
-    // La vache est en train de marcher UwU
+    // Vérifie l'easter egg : touches "A" + "P"
+    if (keyboard_check(ord("A")) && keyboard_check(ord("P"))) {
+        walk_speed = irandom_range(5, 10); // Vitesse boostée entre 5 et 10
+    } else {
+        walk_speed = 0.5 // Vitesse normale
+    }
+
+    // La vache est en train de marcher
     walk_timer -= 1;
     if (walk_timer <= 0) {
         // Passe en mode chill ✨
@@ -23,7 +30,7 @@ if (is_walking) {
             direction_angle = 180 - direction_angle; // Change la direction si collision
         }
 
-        if (!place_meeting(x, next_y, obj_rocher)) {
+        if (!place_meeting(x, next_y, [obj_rocher, obj_tente, obj_arbre_mort])) {
             y = next_y; // Déplacement vertical si pas de collision
         } else {
             direction_angle = 360 - direction_angle; // Change la direction si collision
