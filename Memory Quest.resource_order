@@ -10,6 +10,7 @@
     {"name":"obj_button","order":5,"path":"objects/obj_button/obj_button.yy",},
     {"name":"obj_commands","order":1,"path":"objects/obj_commands/obj_commands.yy",},
     {"name":"obj_enemy_parent","order":3,"path":"objects/obj_enemy_parent/obj_enemy_parent.yy",},
+    {"name":"obj_fog","order":1,"path":"objects/obj_fog/obj_fog.yy",},
     {"name":"obj_home","order":4,"path":"objects/obj_home/obj_home.yy",},
     {"name":"obj_level_selector","order":2,"path":"objects/obj_level_selector/obj_level_selector.yy",},
     {"name":"obj_pnj_parent","order":7,"path":"objects/obj_pnj_parent/obj_pnj_parent.yy",},
