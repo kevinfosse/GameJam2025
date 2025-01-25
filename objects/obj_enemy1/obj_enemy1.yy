@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_enemy_parent",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_enemy1",
+  "eventList":[],
   "managed":true,
-  "name":"obj_enemy_parent",
+  "name":"obj_enemy1",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
