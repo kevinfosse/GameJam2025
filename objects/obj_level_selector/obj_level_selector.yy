@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Grass_Middle",
-    "path":"sprites/Grass_Middle/Grass_Middle.yy",
+    "name":"spr_bubble_statique",
+    "path":"sprites/spr_bubble_statique/spr_bubble_statique.yy",
   },
   "spriteMaskId":null,
   "visible":true,
