@@ -1,6 +1,7 @@
 {
   "FolderOrderSettings":[
     {"name":"Arrows","order":1,"path":"folders/Sprites/Arrows.yy",},
+    {"name":"Backgrounds","order":2,"path":"folders/Sprites/Backgrounds.yy",},
   ],
   "ResourceOrderSettings":[
     {"name":"spr_arrow_down","order":1,"path":"sprites/spr_arrow_down/spr_arrow_down.yy",},
