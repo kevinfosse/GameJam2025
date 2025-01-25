@@ -1,15 +1,15 @@
 {
   "$GMRoom":"v1",
-  "%Name":"Room1",
+  "%Name":"rm_hub",
   "creationCodeFile":"",
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,
   "instanceCreationOrder":[
-    {"name":"inst_1D7065DC","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_1F4385F0","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_537EDB4F","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_6192DD44","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_1D7065DC","path":"rooms/rm_hub/rm_hub.yy",},
+    {"name":"inst_1F4385F0","path":"rooms/rm_hub/rm_hub.yy",},
+    {"name":"inst_537EDB4F","path":"rooms/rm_hub/rm_hub.yy",},
+    {"name":"inst_6192DD44","path":"rooms/rm_hub/rm_hub.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -42,7 +42,7 @@
         ],"TileDataFormat":1,},"tilesetId":{"name":"Tile_Back","path":"tilesets/Tile_Back/Tile_Back.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
     {"$GMRBackgroundLayer":"","%Name":"Backgrounds_1","animationFPS":15.0,"animationSpeedType":0,"colour":4279769112,"depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Backgrounds_1","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
-  "name":"Room1",
+  "name":"rm_hub",
   "parent":{
     "name":"Rooms",
     "path":"folders/Rooms.yy",

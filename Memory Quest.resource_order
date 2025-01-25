@@ -25,8 +25,8 @@
   "ResourceOrderSettings":[
     {"name":"obj_fullscreen","order":1,"path":"objects/obj_fullscreen/obj_fullscreen.yy",},
     {"name":"obj_level_selector","order":2,"path":"objects/obj_level_selector/obj_level_selector.yy",},
-    {"name":"Room_Test_1","order":3,"path":"rooms/Room_Test_1/Room_Test_1.yy",},
-    {"name":"Room_Test","order":2,"path":"rooms/Room_Test/Room_Test.yy",},
+    {"name":"rm_monde1","order":2,"path":"rooms/rm_monde1/rm_monde1.yy",},
+    {"name":"rm_monde2","order":3,"path":"rooms/rm_monde2/rm_monde2.yy",},
     {"name":"Beach_Tile","order":5,"path":"sprites/Beach_Tile/Beach_Tile.yy",},
     {"name":"Bridge_Wood","order":6,"path":"sprites/Bridge_Wood/Bridge_Wood.yy",},
     {"name":"Chest","order":2,"path":"sprites/Chest/Chest.yy",},
@@ -53,6 +53,5 @@
     {"name":"Wall_Tile","order":9,"path":"sprites/Wall_Tile/Wall_Tile.yy",},
     {"name":"Water_Tile","order":1,"path":"sprites/Water_Tile/Water_Tile.yy",},
     {"name":"Tile_Back","order":1,"path":"tilesets/Tile_Back/Tile_Back.yy",},
-    {"name":"TileSet3","order":1,"path":"tilesets/TileSet3/TileSet3.yy",},
   ],
 }
