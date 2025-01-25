@@ -8,6 +8,23 @@ with (obj_frog) {
     }
 }
 
+move_and_collide(_hor * move_speed, _ver * move_speed, [tilemap, obj_arbre, obj_home], undefined, undefined, undefined, move_speed, move_speed);
+
+if(_hor != 0 or _ver != 0) {
+    if(_ver > 0) {
+        sprite_index = spr_player_walk_down;
+    }
+    else if(_ver < 0) {
+        sprite_index = spr_player_walk_up;
+    }
+    else if(_hor > 0) {
+        sprite_index = spr_player_walk_right;
+    }
+    else if(_hor < 0) {
+        sprite_index = spr_player_walk_left;
+    }
+}
+
 // Si aucun dialogue actif, autoriser les mouvements
 if (!dialogue_active_global) {
     // Gestion des inputs horizontaux et verticaux

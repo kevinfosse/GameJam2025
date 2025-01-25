@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_Skeleton_Idle_Bottom",
-    "path":"sprites/Spr_Skeleton_Idle_Bottom/Spr_Skeleton_Idle_Bottom.yy",
+    "name":"spr_daron_idle_front",
+    "path":"sprites/spr_daron_idle_front/spr_daron_idle_front.yy",
   },
   "spriteMaskId":null,
   "visible":true,
