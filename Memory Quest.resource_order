@@ -23,6 +23,7 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"obj_enemy_parent","order":3,"path":"objects/obj_enemy_parent/obj_enemy_parent.yy",},
     {"name":"obj_fullscreen","order":1,"path":"objects/obj_fullscreen/obj_fullscreen.yy",},
     {"name":"obj_level_selector","order":2,"path":"objects/obj_level_selector/obj_level_selector.yy",},
     {"name":"rm_monde1","order":2,"path":"rooms/rm_monde1/rm_monde1.yy",},
