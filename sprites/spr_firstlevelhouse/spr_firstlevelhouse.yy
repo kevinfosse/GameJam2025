@@ -1,8 +1,8 @@
 {
   "$GMSprite":"",
   "%Name":"spr_firstlevelhouse",
-  "bboxMode":0,
-  "bbox_bottom":51,
+  "bboxMode":2,
+  "bbox_bottom":30,
   "bbox_left":0,
   "bbox_right":62,
   "bbox_top":0,

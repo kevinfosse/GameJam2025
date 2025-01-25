@@ -8,7 +8,7 @@
     "TileSerialiseData":[],
   },
   "name":"Tiles_lvl1",
-  "out_columns":8,
+  "out_columns":9,
   "out_tilehborder":2,
   "out_tilevborder":2,
   "parent":{
@@ -18,8 +18,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"tiles_outdoorlvl1",
-    "path":"sprites/tiles_outdoorlvl1/tiles_outdoorlvl1.yy",
+    "name":"tiles_outdoorlvl1_v2",
+    "path":"sprites/tiles_outdoorlvl1_v2/tiles_outdoorlvl1_v2.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{
@@ -34,5 +34,5 @@
   "tileWidth":16,
   "tilexoff":0,
   "tileyoff":0,
-  "tile_count":72,
+  "tile_count":90,
 }
