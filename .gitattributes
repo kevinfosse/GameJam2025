@@ -6,3 +6,7 @@
 *.yy text eol=lf
 *.yyp text eol=lf
 *.json text eol=lf
+
+# Treat GameMaker project files as binary to prevent automatic merges
+*.yy merge=binary
+*.yyp merge=binary
