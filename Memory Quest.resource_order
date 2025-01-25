@@ -2,9 +2,11 @@
   "FolderOrderSettings":[
     {"name":"Arrows","order":1,"path":"folders/Sprites/Arrows.yy",},
     {"name":"Backgrounds","order":2,"path":"folders/Sprites/Backgrounds.yy",},
+    {"name":"Daron","order":1,"path":"folders/Sprites/Enemies/Daron.yy",},
   ],
   "ResourceOrderSettings":[
     {"name":"obj_button","order":5,"path":"objects/obj_button/obj_button.yy",},
+    {"name":"obj_commands","order":1,"path":"objects/obj_commands/obj_commands.yy",},
     {"name":"obj_enemy_parent","order":3,"path":"objects/obj_enemy_parent/obj_enemy_parent.yy",},
     {"name":"obj_enemy1","order":4,"path":"objects/obj_enemy1/obj_enemy1.yy",},
     {"name":"obj_fullscreen","order":1,"path":"objects/obj_fullscreen/obj_fullscreen.yy",},
@@ -32,6 +34,7 @@
     {"name":"spr_arrow_left","order":3,"path":"sprites/spr_arrow_left/spr_arrow_left.yy",},
     {"name":"spr_arrow_right","order":2,"path":"sprites/spr_arrow_right/spr_arrow_right.yy",},
     {"name":"spr_bubble_anime","order":1,"path":"sprites/spr_bubble_anime/spr_bubble_anime.yy",},
+    {"name":"spr_daron_idle_right","order":1,"path":"sprites/spr_daron_idle_right/spr_daron_idle_right.yy",},
     {"name":"spr_firstlevelhouse","order":7,"path":"sprites/spr_firstlevelhouse/spr_firstlevelhouse.yy",},
     {"name":"spr_player_idle_left","order":2,"path":"sprites/spr_player_idle_left/spr_player_idle_left.yy",},
     {"name":"spr_player_walk_left","order":3,"path":"sprites/spr_player_walk_left/spr_player_walk_left.yy",},
@@ -50,6 +53,5 @@
     {"name":"Tiles_lvl1","order":2,"path":"tilesets/Tiles_lvl1/Tiles_lvl1.yy",},
     {"name":"TileSet4","order":3,"path":"tilesets/TileSet4/TileSet4.yy",},
     {"name":"TileSet5","order":4,"path":"tilesets/TileSet5/TileSet5.yy",},
-    {"name":"obj_commands","order":1,"path":"objects/obj_commands/obj_commands.yy",},
   ],
 }
