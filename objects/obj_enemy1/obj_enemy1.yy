@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_daron_idle_front",
-    "path":"sprites/spr_daron_idle_front/spr_daron_idle_front.yy",
+    "name":"SPR_frog_Idle",
+    "path":"sprites/SPR_frog_Idle/SPR_frog_Idle.yy",
   },
   "spriteMaskId":null,
   "visible":true,
