@@ -50,5 +50,6 @@
     {"name":"Tiles_lvl1","order":2,"path":"tilesets/Tiles_lvl1/Tiles_lvl1.yy",},
     {"name":"TileSet4","order":3,"path":"tilesets/TileSet4/TileSet4.yy",},
     {"name":"TileSet5","order":4,"path":"tilesets/TileSet5/TileSet5.yy",},
+    {"name":"obj_commands","order":1,"path":"objects/obj_commands/obj_commands.yy",},
   ],
 }
