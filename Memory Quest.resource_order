@@ -1,4 +1,10 @@
 {
-  "FolderOrderSettings":[],
-  "ResourceOrderSettings":[],
+  "FolderOrderSettings":[
+    {"name":"Arrows","order":1,"path":"folders/Sprites/Arrows.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"spr_arrow_down","order":1,"path":"sprites/spr_arrow_down/spr_arrow_down.yy",},
+    {"name":"spr_arrow_left","order":3,"path":"sprites/spr_arrow_left/spr_arrow_left.yy",},
+    {"name":"spr_arrow_right","order":2,"path":"sprites/spr_arrow_right/spr_arrow_right.yy",},
+  ],
 }
