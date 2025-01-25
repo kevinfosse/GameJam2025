@@ -1,2 +1,2 @@
 hp_total = hp;
-hp = 3;
+target_room = rm_battle
