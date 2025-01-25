@@ -25,8 +25,6 @@
     {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Enemies","folderPath":"folders/Sprites/Enemies.yy","name":"Enemies","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Skeleton","folderPath":"folders/Sprites/Enemies/Skeleton.yy","name":"Skeleton","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"Slime_Green","folderPath":"folders/Sprites/Enemies/Slime_Green.yy","name":"Slime_Green","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"Slime","folderPath":"folders/Sprites/Enemies/Slime.yy","name":"Slime","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Outdoor decoration","folderPath":"folders/Sprites/Outdoor decoration.yy","name":"Outdoor decoration","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Player","folderPath":"folders/Sprites/Player.yy","name":"Player","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Test","folderPath":"folders/Sprites/Test.yy","name":"Test","resourceType":"GMFolder","resourceVersion":"2.0",},
