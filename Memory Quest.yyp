@@ -52,6 +52,7 @@
     {"$GMIncludedFile":"","%Name":"Cow.png","CopyToMask":-1,"filePath":"datafiles/Animals/Cow","name":"Cow.png","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
     {"$GMIncludedFile":"","%Name":"Pig.png","CopyToMask":-1,"filePath":"datafiles/Animals/Pig","name":"Pig.png","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
     {"$GMIncludedFile":"","%Name":"Sheep.png","CopyToMask":-1,"filePath":"datafiles/Animals/Sheep","name":"Sheep.png","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
+    {"$GMIncludedFile":"","%Name":"PressStart2P.ttf","CopyToMask":-1,"filePath":"datafiles","name":"PressStart2P.ttf","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
     {"$GMIncludedFile":"","%Name":"read_me.txt","CopyToMask":-1,"filePath":"datafiles","name":"read_me.txt","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
   ],
   "isEcma":false,
