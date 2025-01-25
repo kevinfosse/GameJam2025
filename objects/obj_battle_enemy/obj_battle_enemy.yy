@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite28",
-    "path":"sprites/Sprite28/Sprite28.yy",
+    "name":"Spr_Skeleton_Idle_Bottom",
+    "path":"sprites/Spr_Skeleton_Idle_Bottom/Spr_Skeleton_Idle_Bottom.yy",
   },
   "spriteMaskId":null,
   "visible":true,
