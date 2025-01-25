@@ -25,6 +25,7 @@
     {"name":"Cliff_Tile","order":3,"path":"sprites/Cliff_Tile/Cliff_Tile.yy",},
     {"name":"FarmLand_Tile","order":4,"path":"sprites/FarmLand_Tile/FarmLand_Tile.yy",},
     {"name":"Fences","order":4,"path":"sprites/Fences/Fences.yy",},
+    {"name":"FG_Cellar","order":12,"path":"sprites/FG_Cellar/FG_Cellar.yy",},
     {"name":"Grass_Middle","order":7,"path":"sprites/Grass_Middle/Grass_Middle.yy",},
     {"name":"House","order":3,"path":"sprites/House/House.yy",},
     {"name":"Oak_Tree_Small","order":5,"path":"sprites/Oak_Tree_Small/Oak_Tree_Small.yy",},
@@ -57,6 +58,7 @@
     {"name":"Water_Tile","order":1,"path":"sprites/Water_Tile/Water_Tile.yy",},
     {"name":"Tile_Back","order":1,"path":"tilesets/Tile_Back/Tile_Back.yy",},
     {"name":"Tiles_lvl1","order":2,"path":"tilesets/Tiles_lvl1/Tiles_lvl1.yy",},
-    {"name":"TileSet5","order":4,"path":"tilesets/TileSet5/TileSet5.yy",},
+    {"name":"TileSet5","order":3,"path":"tilesets/TileSet5/TileSet5.yy",},
+    {"name":"TileSet6","order":4,"path":"tilesets/TileSet6/TileSet6.yy",},
   ],
 }
