@@ -41,6 +41,8 @@
     {"name":"Path_Middle","order":6,"path":"sprites/Path_Middle/Path_Middle.yy",},
     {"name":"Path_Tile","order":2,"path":"sprites/Path_Tile/Path_Tile.yy",},
     {"name":"Player","order":1,"path":"sprites/Player/Player.yy",},
+    {"name":"spr_player_idle_left","order":2,"path":"sprites/spr_player_idle_left/spr_player_idle_left.yy",},
+    {"name":"spr_player_walk_left","order":3,"path":"sprites/spr_player_walk_left/spr_player_walk_left.yy",},
     {"name":"Spr_Skeleton_Idle_Bottom","order":1,"path":"sprites/Spr_Skeleton_Idle_Bottom/Spr_Skeleton_Idle_Bottom.yy",},
     {"name":"Spr_Skeleton_Idle_Side","order":6,"path":"sprites/Spr_Skeleton_Idle_Side/Spr_Skeleton_Idle_Side.yy",},
     {"name":"Spr_Skeleton_Idle_Top","order":5,"path":"sprites/Spr_Skeleton_Idle_Top/Spr_Skeleton_Idle_Top.yy",},
