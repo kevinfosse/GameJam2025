@@ -1,4 +1,9 @@
 {
   "FolderOrderSettings":[],
-  "ResourceOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"obj_buche","order":2,"path":"objects/obj_buche/obj_buche.yy",},
+    {"name":"obj_rocher","order":3,"path":"objects/obj_rocher/obj_rocher.yy",},
+    {"name":"spr_buchelv2","order":1,"path":"sprites/spr_buchelv2/spr_buchelv2.yy",},
+    {"name":"spr_rochelv2","order":2,"path":"sprites/spr_rochelv2/spr_rochelv2.yy",},
+  ],
 }

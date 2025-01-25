@@ -2,7 +2,7 @@ var _hor = keyboard_check(ord("D")) - keyboard_check(ord("Q"));
 var _ver = keyboard_check(ord("S")) - keyboard_check(ord("Z"));
 
 move_and_collide(_hor * move_speed, _ver * move_speed, 
-    [tilemap, obj_arbre, obj_home, obj_home_roof, obj_arbre_mort, obj_feu_camp, obj_tente], 
+    [tilemap, obj_arbre, obj_home, obj_home_roof, obj_arbre_mort, obj_feu_camp, obj_tente, obj_buche, obj_rocher], 
 undefined, undefined, undefined, move_speed, move_speed);
 
 if(_hor != 0 or _ver != 0) {
