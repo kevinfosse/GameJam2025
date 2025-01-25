@@ -1,22 +1,4 @@
 {
   "FolderOrderSettings":[],
-  "ResourceOrderSettings":[
-    {"name":"obj_feu_camp","order":1,"path":"objects/obj_feu_camp/obj_feu_camp.yy",},
-    {"name":"obj_tente","order":2,"path":"objects/obj_tente/obj_tente.yy",},
-    {"name":"Chest","order":9,"path":"sprites/Chest/Chest.yy",},
-    {"name":"Fences","order":7,"path":"sprites/Fences/Fences.yy",},
-    {"name":"House","order":10,"path":"sprites/House/House.yy",},
-    {"name":"Oak_Tree_Small","order":8,"path":"sprites/Oak_Tree_Small/Oak_Tree_Small.yy",},
-    {"name":"Oak_Tree","order":4,"path":"sprites/Oak_Tree/Oak_Tree.yy",},
-    {"name":"Outdoor_Decor_Free","order":6,"path":"sprites/Outdoor_Decor_Free/Outdoor_Decor_Free.yy",},
-    {"name":"spr_arbre","order":1,"path":"sprites/spr_arbre/spr_arbre.yy",},
-    {"name":"spr_arbremort","order":11,"path":"sprites/spr_arbremort/spr_arbremort.yy",},
-    {"name":"spr_feudecamp","order":12,"path":"sprites/spr_feudecamp/spr_feudecamp.yy",},
-    {"name":"spr_firstlevelhouse_roof","order":3,"path":"sprites/spr_firstlevelhouse_roof/spr_firstlevelhouse_roof.yy",},
-    {"name":"spr_firstlevelhouse_walls","order":2,"path":"sprites/spr_firstlevelhouse_walls/spr_firstlevelhouse_walls.yy",},
-    {"name":"spr_firstlevelhouse","order":5,"path":"sprites/spr_firstlevelhouse/spr_firstlevelhouse.yy",},
-    {"name":"spr_tentelvl2","order":13,"path":"sprites/spr_tentelvl2/spr_tentelvl2.yy",},
-    {"name":"tiles_niv2desert","order":1,"path":"sprites/tiles_niv2desert/tiles_niv2desert.yy",},
-    {"name":"Tiles_lvl2","order":1,"path":"tilesets/Tiles_lvl2/Tiles_lvl2.yy",},
-  ],
+  "ResourceOrderSettings":[],
 }

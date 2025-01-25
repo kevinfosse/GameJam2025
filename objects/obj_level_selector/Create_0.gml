@@ -1,20 +1,24 @@
+// Variables pour le dialogue
+is_active = false; // Indique si le dialogue est actif
+current_page = 0;  // Page actuelle
+text_progress = 0; // Progression du texte affiché
+text_speed = 0.5;  // Vitesse d'affichage du texte
+dialog_pages = [
+    "Bienvenue dans le jeu !",
+    "Appuyez sur E pour continuer.",
+    "Bonne chance dans votre aventure !"
+]; // Liste des pages de dialogue
+
+// Dimensions de la boîte de dialogue
+dialog_width = 640;
+dialog_height = 120;
+
+// Calcul des positions par défaut
+dialog_x = (display_get_gui_width() - dialog_width) / 2;
+dialog_y = display_get_gui_height() - dialog_height - 20;
+
 // Room cible par défaut
-target_room = "Room" // Valeur par défaut si aucune Room n'est définie
+target_room = noone;
 
-// Nom du niveau par défaut
-level_name = "Niveau";
-
-time = irandom(360);  // Décalage aléatoire pour un mouvement unique
-amplitude_y = 3;      // Amplitude verticale (distance de flottement)
-amplitude_x = 2;      // Amplitude horizontale (distance de flottement)
-speed = 0.02;         // Vitesse du mouvement (petite valeur pour un effet fluide)
-base_x = x;           // Position de base horizontale
-base_y = y;           // Position de base verticale
-
-
-alpha_min = 0.7;             // Opacité minimale
-alpha_max = 1;               // Opacité maximale
-alpha_speed = 0.03;          // Vitesse du scintillement
-scale_min = 0.95;            // Taille minimale
-scale_max = 1.05;            // Taille maximale
-scale_time = irandom(360);   // Décalage pour l'effet de pulsation
+// Propriétés du joueur
+player_proximity = 32; // Distance minimale pour activer le dialogue
