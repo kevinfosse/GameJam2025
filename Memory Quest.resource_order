@@ -26,6 +26,7 @@
   "ResourceOrderSettings":[
     {"name":"obj_amaranhig","order":6,"path":"objects/obj_amaranhig/obj_amaranhig.yy",},
     {"name":"obj_arbre_mort","order":2,"path":"objects/obj_arbre_mort/obj_arbre_mort.yy",},
+    {"name":"obj_battle_entity","order":1,"path":"objects/obj_battle_entity/obj_battle_entity.yy",},
     {"name":"obj_buche","order":4,"path":"objects/obj_buche/obj_buche.yy",},
     {"name":"obj_cascade","order":3,"path":"objects/obj_cascade/obj_cascade.yy",},
     {"name":"obj_chicken","order":2,"path":"objects/obj_chicken/obj_chicken.yy",},

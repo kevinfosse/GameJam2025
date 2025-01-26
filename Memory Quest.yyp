@@ -84,6 +84,7 @@
     {"id":{"name":"obj_arbre_mort","path":"objects/obj_arbre_mort/obj_arbre_mort.yy",},},
     {"id":{"name":"obj_arbre","path":"objects/obj_arbre/obj_arbre.yy",},},
     {"id":{"name":"obj_battle_enemy","path":"objects/obj_battle_enemy/obj_battle_enemy.yy",},},
+    {"id":{"name":"obj_battle_entity","path":"objects/obj_battle_entity/obj_battle_entity.yy",},},
     {"id":{"name":"obj_battle_manager","path":"objects/obj_battle_manager/obj_battle_manager.yy",},},
     {"id":{"name":"obj_battle_player","path":"objects/obj_battle_player/obj_battle_player.yy",},},
     {"id":{"name":"obj_battle_switcher","path":"objects/obj_battle_switcher/obj_battle_switcher.yy",},},
