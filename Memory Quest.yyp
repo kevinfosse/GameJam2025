@@ -117,6 +117,7 @@
     {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
     {"id":{"name":"rm_monde1","path":"rooms/rm_monde1/rm_monde1.yy",},},
     {"id":{"name":"rm_monde2","path":"rooms/rm_monde2/rm_monde2.yy",},},
+    {"id":{"name":"shader_dark","path":"shaders/shader_dark/shader_dark.yy",},},
     {"id":{"name":"BOSS1","path":"sounds/BOSS1/BOSS1.yy",},},
     {"id":{"name":"BOSS2_CHILL","path":"sounds/BOSS2_CHILL/BOSS2_CHILL.yy",},},
     {"id":{"name":"BOSS2_FINAL","path":"sounds/BOSS2_FINAL/BOSS2_FINAL.yy",},},
