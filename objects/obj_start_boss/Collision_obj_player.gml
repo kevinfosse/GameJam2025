@@ -16,5 +16,6 @@ if (place_meeting(x, y, obj_player) && !is_transitioning) {
 
     global.return_x = new_spawn.x;
     global.return_y = new_spawn.y;
+    global.song = audio;
 
 }

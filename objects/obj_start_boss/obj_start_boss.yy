@@ -37,6 +37,9 @@
     {"$GMObjectProperty":"v1","%Name":"background","filters":[
         "GMSprite",
       ],"listItems":[],"multiselect":false,"name":"background","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"","varType":5,},
+    {"$GMObjectProperty":"v1","%Name":"audio","filters":[
+        "GMSound",
+      ],"listItems":[],"multiselect":false,"name":"audio","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"BOSS1","path":"sounds/BOSS1/BOSS1.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"BOSS1","varType":5,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
