@@ -2,9 +2,9 @@
   "FolderOrderSettings":[
     {"name":"title_screen","order":1,"path":"folders/Objects/title_screen.yy",},
     {"name":"Animals","order":1,"path":"folders/Sprites/Animals.yy",},
+    {"name":"Amaranhig","order":34,"path":"folders/Sprites/Animals/Amaranhig.yy",},
     {"name":"Chicken","order":8,"path":"folders/Sprites/Animals/Chicken.yy",},
     {"name":"Cow","order":10,"path":"folders/Sprites/Animals/Cow.yy",},
-    {"name":"Amaranhig","order":34,"path":"folders/Sprites/Animals/Amaranhig.yy",},
     {"name":"Pig","order":22,"path":"folders/Sprites/Animals/Pig.yy",},
     {"name":"Sheep","order":25,"path":"folders/Sprites/Animals/Sheep.yy",},
   ],
