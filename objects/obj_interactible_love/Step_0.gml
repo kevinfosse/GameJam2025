@@ -1,5 +1,5 @@
 // Inherit the parent event
-event_inherited();
+
 
 if (distance_to_object(obj_player) < 1) {
     if (keyboard_check_pressed(ord("E"))) {
