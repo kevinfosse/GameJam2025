@@ -10,3 +10,5 @@ _ver = 0; // Mouvement vertical
 
 // Sprite par défaut (regarde en bas pour dire bonjour UwU)
 sprite_index = spr_tiyanak_bottom_walk;
+
+tilemap = layer_tilemap_get_id("Tile_Col");
