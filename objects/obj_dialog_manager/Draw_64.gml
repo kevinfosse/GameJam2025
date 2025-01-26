@@ -9,5 +9,5 @@ if (is_active && current_page < array_length(dialog_pages)) {
     draw_set_color(c_white);
     draw_set_font(fnt_dialog);
     var displayed_text = string_copy(dialog_pages[current_page], 1, text_progress);
-    draw_text_ext(dialog_x + 20, dialog_y + 20, displayed_text, 25, dialog_width - 40);
+    draw_text_ext(dialog_x + 40, dialog_y + 40, displayed_text, 50, dialog_width - 40);
 }

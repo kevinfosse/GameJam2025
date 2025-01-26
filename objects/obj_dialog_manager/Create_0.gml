@@ -1,6 +1,6 @@
 depth = -9999; // Keep dialog box on top
-dialog_width = 640;
-dialog_height = 120;
+dialog_width = 1280;
+dialog_height = 240;
 dialog_x = (display_get_gui_width() - dialog_width) / 2;
 dialog_y = display_get_gui_height() - dialog_height - 20;
 dialog_text = "";
