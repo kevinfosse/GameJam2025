@@ -157,6 +157,7 @@
     {"id":{"name":"BOSS2_CHILL","path":"sounds/BOSS2_CHILL/BOSS2_CHILL.yy",},},
     {"id":{"name":"BOSS2_FINAL","path":"sounds/BOSS2_FINAL/BOSS2_FINAL.yy",},},
     {"id":{"name":"BOSS2_MID","path":"sounds/BOSS2_MID/BOSS2_MID.yy",},},
+    {"id":{"name":"BOSS3","path":"sounds/BOSS3/BOSS3.yy",},},
     {"id":{"name":"HUB","path":"sounds/HUB/HUB.yy",},},
     {"id":{"name":"MENU","path":"sounds/MENU/MENU.yy",},},
     {"id":{"name":"NIVEAU1","path":"sounds/NIVEAU1/NIVEAU1.yy",},},

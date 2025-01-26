@@ -31,6 +31,7 @@
     {"name":"Object62","order":4,"path":"objects/Object62/Object62.yy",},
     {"name":"rm_monde3","order":1,"path":"rooms/rm_monde3/rm_monde3.yy",},
     {"name":"AMBIANCE_NIVEAU3","order":2,"path":"sounds/AMBIANCE_NIVEAU3/AMBIANCE_NIVEAU3.yy",},
+    {"name":"BOSS3","order":5,"path":"sounds/BOSS3/BOSS3.yy",},
     {"name":"PETSOUND","order":4,"path":"sounds/PETSOUND/PETSOUND.yy",},
     {"name":"SELECTMENU","order":3,"path":"sounds/SELECTMENU/SELECTMENU.yy",},
     {"name":"snd_footstep","order":1,"path":"sounds/snd_footstep/snd_footstep.yy",},
