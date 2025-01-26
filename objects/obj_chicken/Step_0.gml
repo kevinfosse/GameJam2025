@@ -1,12 +1,5 @@
 // Gestion du temps de marche ou d'arrêt
 if (is_walking) {
-    // Vérifie l'easter egg : touches "A" + "P"
-    if (keyboard_check(ord("A")) && keyboard_check(ord("P"))) {
-        walk_speed = irandom_range(5, 10); // Vitesse boostée entre 5 et 10
-    } else {
-        walk_speed = 0.5 // Vitesse normale
-    }
-
     // La vache est en train de marcher
     walk_timer -= 1;
     if (walk_timer <= 0) {
@@ -15,27 +8,22 @@ if (is_walking) {
         sprite_index = sp_chicken_idle;
         idle_timer = irandom_range(30, 120); // Durée d'arrêt (30 à 120 frames)
     } else {
-        // Calcul pour le déplacement kawaii >w<
-        direction_angle += irandom_range(-10, 10); // Variation dans la direction
-        _hor = lengthdir_x(walk_speed, direction_angle);
-        _ver = lengthdir_y(walk_speed, direction_angle);
+        // Déplacement
+        var next_x = x + lengthdir_x(walk_speed, direction_angle);
+        var next_y = y + lengthdir_y(walk_speed, direction_angle);
 
-        // Prochaines positions
-        var next_x = x + _hor;
-        var next_y = y + _ver;
-
-        // Vérifie les collisions avec `obj_rocher`
-        if (!place_meeting(next_x, y, [tilemap, obj_arbre])) {
-            x = next_x; // Déplacement horizontal si pas de collision
-        } else {
-            direction_angle = 180 - direction_angle; // Change la direction si collision
+        // Gestion des collisions avec les bordures
+        if (next_x < 0 || next_x > room_width) {
+            direction_angle = 180 - direction_angle; // Inverser horizontalement
         }
-
-        if (!place_meeting(x, next_y, [tilemap, obj_arbre, obj_home, obj_home_roof])) {
-            y = next_y; // Déplacement vertical si pas de collision
-        } else {
-            direction_angle = 360 - direction_angle; // Change la direction si collision
+        if (next_y < 0 || next_y > room_height) {
+            direction_angle = 360 - direction_angle; // Inverser verticalement
         }
+        direction_angle = direction_angle mod 360; // Garder l'angle dans la plage [0, 359]
+
+        // Appliquer le déplacement
+        x += lengthdir_x(walk_speed, direction_angle);
+        y += lengthdir_y(walk_speed, direction_angle);
     }
 } else {
     // La vache est en mode idle
