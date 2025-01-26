@@ -14,7 +14,10 @@ if (dialog_manager != noone && !dialog_manager.is_active) {
     }
 
     move_and_collide(_hor * move_speed, _ver * move_speed, 
-        [tilemap, obj_arbre, obj_home, obj_home_roof, obj_arbre_mort, obj_feu_camp, obj_tente, obj_buche, obj_rocher], 
+        [tilemap, 
+            obj_arbre, obj_home, obj_home_roof, 
+            obj_arbre_mort, obj_feu_camp, obj_tente, obj_buche, obj_rocher,
+            obj_rocher_lvl3, obj_stalactite], 
         undefined, undefined, undefined, move_speed, move_speed);
 
     // Gestion des sprites
