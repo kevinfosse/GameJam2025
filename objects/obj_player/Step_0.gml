@@ -31,6 +31,10 @@ if (dialog_manager != noone && !dialog_manager.is_active) {
         else if (_hor < 0) {
             sprite_index = spr_player_walk_left;
         }
+        
+        if (!audio_is_playing(snd_footstep)) {
+                    audio_play_sound(snd_footstep, 1, false); // Jouer le son à volume 1, pas en boucle
+      }  
     } else {
         // Ajustement du sprite en idle
         if (sprite_index == spr_player_walk_right) {
@@ -45,5 +49,7 @@ if (dialog_manager != noone && !dialog_manager.is_active) {
         else if (sprite_index == spr_player_walk_down) {
             sprite_index = spr_player_idle_down;
         }
+            audio_stop_sound(snd_footstep);
+    
     }
 }

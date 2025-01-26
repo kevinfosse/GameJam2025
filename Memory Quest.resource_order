@@ -1,4 +1,6 @@
 {
   "FolderOrderSettings":[],
-  "ResourceOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"snd_footstep","order":1,"path":"sounds/snd_footstep/snd_footstep.yy",},
+  ],
 }

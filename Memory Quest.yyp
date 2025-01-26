@@ -147,6 +147,7 @@
     {"id":{"name":"NIVEAU1","path":"sounds/NIVEAU1/NIVEAU1.yy",},},
     {"id":{"name":"NIVEAU2","path":"sounds/NIVEAU2/NIVEAU2.yy",},},
     {"id":{"name":"NIVEAU3_DIALOGUE","path":"sounds/NIVEAU3_DIALOGUE/NIVEAU3_DIALOGUE.yy",},},
+    {"id":{"name":"snd_footstep","path":"sounds/snd_footstep/snd_footstep.yy",},},
     {"id":{"name":"Aghoy","path":"sprites/Aghoy/Aghoy.yy",},},
     {"id":{"name":"Amomongo","path":"sprites/Amomongo/Amomongo.yy",},},
     {"id":{"name":"Beach_Tile","path":"sprites/Beach_Tile/Beach_Tile.yy",},},
