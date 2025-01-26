@@ -75,5 +75,6 @@
     {"name":"titre_rien","order":3,"path":"sprites/titre_rien/titre_rien.yy",},
     {"name":"Tiyanak","order":32,"path":"sprites/Tiyanak/Tiyanak.yy",},
     {"name":"Witch","order":33,"path":"sprites/Witch/Witch.yy",},
+    {"name":"Tiles_bridge","order":1,"path":"tilesets/Tiles_bridge/Tiles_bridge.yy",},
   ],
 }

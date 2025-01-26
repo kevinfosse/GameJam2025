@@ -262,6 +262,7 @@
     {"id":{"name":"Witch","path":"sprites/Witch/Witch.yy",},},
     {"id":{"name":"Tile_Back","path":"tilesets/Tile_Back/Tile_Back.yy",},},
     {"id":{"name":"Tile_Col","path":"tilesets/Tile_Col/Tile_Col.yy",},},
+    {"id":{"name":"Tiles_bridge","path":"tilesets/Tiles_bridge/Tiles_bridge.yy",},},
     {"id":{"name":"Tiles_lvl1","path":"tilesets/Tiles_lvl1/Tiles_lvl1.yy",},},
     {"id":{"name":"Tiles_lvl2","path":"tilesets/Tiles_lvl2/Tiles_lvl2.yy",},},
     {"id":{"name":"TileSet5","path":"tilesets/TileSet5/TileSet5.yy",},},
