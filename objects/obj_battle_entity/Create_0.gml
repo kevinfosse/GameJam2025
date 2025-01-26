@@ -1,12 +1,12 @@
 hp_max = 0;
 hp_current = 0;
-damage_base = 0;
+damage = 0;
 
 // Méthode pour initialiser les stats
 function initialize_stats(_hp, _damage) {
     hp_max = _hp;
     hp_current = hp_max;
-    damage_base = _damage;
+    damage = _damage;
 }
 
 // Méthode pour recevoir des dégâts

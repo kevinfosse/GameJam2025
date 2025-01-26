@@ -28,7 +28,15 @@
   "physicsShapePoints":[],
   "physicsStartAwake":true,
   "properties":[
-    {"$GMObjectProperty":"v1","%Name":"boss_type","filters":[],"listItems":[],"multiselect":false,"name":"boss_type","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"daron","varType":2,},
+    {"$GMObjectProperty":"v1","%Name":"boss_type","filters":[
+        "GMObject",
+      ],"listItems":[],"multiselect":false,"name":"boss_type","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"","varType":5,},
+    {"$GMObjectProperty":"v1","%Name":"new_spawn","filters":[
+        "GMObject",
+      ],"listItems":[],"multiselect":false,"name":"new_spawn","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"","varType":5,},
+    {"$GMObjectProperty":"v1","%Name":"background","filters":[
+        "GMSprite",
+      ],"listItems":[],"multiselect":false,"name":"background","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"","varType":5,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",

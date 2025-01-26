@@ -6,7 +6,15 @@
 // _switcher.original_room = room;
 
 
-if (place_meeting(x, y, obj_player)) {
-    global.current_boss_type = boss_type;  // Stocke le type de boss
-    room_goto(target_room);
+if (place_meeting(x, y, obj_player) && !is_transitioning) {
+    is_transitioning = true;
+    global.return_room = room;
+    global.current_boss = boss_type;
+    global.battle_background = background;
+    
+    // Stocke les coordonnées du nouveau spawn s'il existe
+
+    global.return_x = new_spawn.x;
+    global.return_y = new_spawn.y;
+
 }
