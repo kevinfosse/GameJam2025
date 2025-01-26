@@ -1,0 +1,1 @@
+is_active = false; // Indique si le dialogue est actif
