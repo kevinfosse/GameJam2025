@@ -3,6 +3,7 @@
     {"name":"Bungisnis","order":34,"path":"folders/Sprites/Animals/Bungisnis.yy",},
     {"name":"Tiyanak","order":35,"path":"folders/Sprites/Animals/Tiyanak.yy",},
   ],
+  "FolderOrderSettings":[],
   "ResourceOrderSettings":[
     {"name":"obj_amaranhig","order":6,"path":"objects/obj_amaranhig/obj_amaranhig.yy",},
     {"name":"obj_arbre_mort","order":2,"path":"objects/obj_arbre_mort/obj_arbre_mort.yy",},
