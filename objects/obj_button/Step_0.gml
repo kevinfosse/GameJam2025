@@ -1,3 +1,11 @@
+
+    if(button_action == "play") {
+      sprite_index=bg_btn_jouer
+    } else if(button_action == "quit") {
+        sprite_index=bg_btn_quitter
+    }
+
+
 // Vérifier si la souris est sur le bouton
 if (point_in_rectangle(mouse_x, mouse_y, x, y, x + sprite_width, y + sprite_height)) {
     is_hovered = true;

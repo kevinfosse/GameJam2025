@@ -1,12 +1,12 @@
 enemy_turn = 0;
 damage_to_enemy = 0;
 
-qte_active = false;                  // Si le QTE est en cours
-qte_sequence = [];                   // Tableau qui contiendra la séquence de touches
-qte_current_index = 0;              // Index de la touche actuelle dans la séquence
-qte_timer = 0;                      // Timer pour la touche actuelle
-qte_time_per_key = 60;             // 1 seconde (60 frames) par touche
-qte_sequence_length = 4;            // Nombre de touches dans la séquence
+qte_active = false;             // Si le QTE est en cours
+qte_sequence = [];              // Tableau qui contiendra la séquence de touches
+qte_current_index = 0;          // Index de la touche actuelle dans la séquence
+qte_timer = 0;                  // Timer pour la touche actuelle
+qte_time_per_key = 60;          // 1 seconde (60 frames) par touche
+qte_sequence_length = 4;        // Nombre de touches dans la séquence
 
 player_attack = function(_damage) {
     damage_to_enemy = _damage;
