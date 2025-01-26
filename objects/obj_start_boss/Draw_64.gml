@@ -6,6 +6,6 @@ if (is_transitioning) {
     draw_set_alpha(1);
     
     if (transition_alpha >= 1) {
-        room_goto(boss_room);
+        room_goto(target_room);
     }
 }

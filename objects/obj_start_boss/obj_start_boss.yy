@@ -28,9 +28,6 @@
   "physicsShapePoints":[],
   "physicsStartAwake":true,
   "properties":[
-    {"$GMObjectProperty":"v1","%Name":"boss_room","filters":[
-        "GMRoom",
-      ],"listItems":[],"multiselect":false,"name":"boss_room","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"rm_battle","path":"rooms/rm_battle/rm_battle.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"rm_battle","varType":5,},
     {"$GMObjectProperty":"v1","%Name":"boss_type","filters":[],"listItems":[],"multiselect":false,"name":"boss_type","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"daron","varType":2,},
   ],
   "resourceType":"GMObject",

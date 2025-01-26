@@ -5,9 +5,8 @@
 // _switcher.enemy_data = other;
 // _switcher.original_room = room;
 
-// room_goto(rm_battle);
 
 if (place_meeting(x, y, obj_player)) {
     global.current_boss_type = boss_type;  // Stocke le type de boss
-    room_goto(boss_room);
+    room_goto(target_room);
 }

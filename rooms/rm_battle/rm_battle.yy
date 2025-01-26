@@ -6,10 +6,10 @@
   "inheritCreationOrder":false,
   "inheritLayers":false,
   "instanceCreationOrder":[
-    {"name":"inst_2C75DC59","path":"rooms/rm_battle/rm_battle.yy",},
     {"name":"inst_36FBDD80","path":"rooms/rm_battle/rm_battle.yy",},
     {"name":"inst_477B0639","path":"rooms/rm_battle/rm_battle.yy",},
     {"name":"inst_20634A8D","path":"rooms/rm_battle/rm_battle.yy",},
+    {"name":"inst_2C75DC59","path":"rooms/rm_battle/rm_battle.yy",},
   ],
   "isDnd":false,
   "layers":[
