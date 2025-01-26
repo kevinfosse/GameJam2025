@@ -13,7 +13,6 @@
     {"name":"inst_2A4ADCCE","path":"rooms/rm_hub/rm_hub.yy",},
     {"name":"inst_33230E68","path":"rooms/rm_hub/rm_hub.yy",},
     {"name":"inst_32B18982","path":"rooms/rm_hub/rm_hub.yy",},
-    {"name":"inst_49E1254","path":"rooms/rm_hub/rm_hub.yy",},
     {"name":"inst_49FF858A","path":"rooms/rm_hub/rm_hub.yy",},
   ],
   "isDnd":false,
@@ -44,7 +43,6 @@
         {"$GMRInstance":"v1","%Name":"inst_32B18982","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_32B18982","objectId":{"name":"obj_interactible_teleporter","path":"objects/obj_interactible_teleporter/obj_interactible_teleporter.yy",},"properties":[
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_interactible_teleporter","path":"objects/obj_interactible_teleporter/obj_interactible_teleporter.yy",},"propertyId":{"name":"target_room","path":"objects/obj_interactible_teleporter/obj_interactible_teleporter.yy",},"resource":{"name":"rm_monde2","path":"rooms/rm_monde2/rm_monde2.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"rm_monde2",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":928.0,"y":480.0,},
-        {"$GMRInstance":"v1","%Name":"inst_49E1254","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_49E1254","objectId":{"name":"obj_interactible_daron","path":"objects/obj_interactible_daron/obj_interactible_daron.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":992.0,"y":544.0,},
         {"$GMRInstance":"v1","%Name":"inst_49FF858A","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_49FF858A","objectId":{"name":"obj_interactible_frog","path":"objects/obj_interactible_frog/obj_interactible_frog.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":904.0,"y":565.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRTileLayer":"","%Name":"Tile_Back","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Tile_Back","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":68,"SerialiseWidth":120,"TileCompressedData":[

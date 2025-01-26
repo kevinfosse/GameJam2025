@@ -37,8 +37,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_bubble_anime",
-    "path":"sprites/spr_bubble_anime/spr_bubble_anime.yy",
+    "name":"spr_bubble_statique",
+    "path":"sprites/spr_bubble_statique/spr_bubble_statique.yy",
   },
   "spriteMaskId":null,
   "visible":true,
