@@ -8,6 +8,7 @@ if (distance_to_object(obj_player) < 1) {
 }
 
 if (loved) {
+    audio_play_sound(PETSOUND, 1, false);
 lock_alpha = 1
 
 } else {

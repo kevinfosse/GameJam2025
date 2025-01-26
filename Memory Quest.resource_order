@@ -18,6 +18,7 @@
     {"name":"obj_tente","order":1,"path":"objects/obj_tente/obj_tente.yy",},
     {"name":"rm_monde3","order":1,"path":"rooms/rm_monde3/rm_monde3.yy",},
     {"name":"AMBIANCE_NIVEAU3","order":2,"path":"sounds/AMBIANCE_NIVEAU3/AMBIANCE_NIVEAU3.yy",},
+    {"name":"PETSOUND","order":4,"path":"sounds/PETSOUND/PETSOUND.yy",},
     {"name":"SELECTMENU","order":3,"path":"sounds/SELECTMENU/SELECTMENU.yy",},
     {"name":"snd_footstep","order":1,"path":"sounds/snd_footstep/snd_footstep.yy",},
     {"name":"Amomongo","order":2,"path":"sprites/Amomongo/Amomongo.yy",},
