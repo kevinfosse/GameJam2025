@@ -1,7 +1,6 @@
 {
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
-    {"name":"snd_footstep","order":1,"path":"sounds/snd_footstep/snd_footstep.yy",},
     {"name":"obj_amaranhig","order":6,"path":"objects/obj_amaranhig/obj_amaranhig.yy",},
     {"name":"obj_arbre_mort","order":2,"path":"objects/obj_arbre_mort/obj_arbre_mort.yy",},
     {"name":"obj_battle_entity","order":1,"path":"objects/obj_battle_entity/obj_battle_entity.yy",},
@@ -18,6 +17,9 @@
     {"name":"obj_stalactite","order":2,"path":"objects/obj_stalactite/obj_stalactite.yy",},
     {"name":"obj_tente","order":1,"path":"objects/obj_tente/obj_tente.yy",},
     {"name":"rm_monde3","order":1,"path":"rooms/rm_monde3/rm_monde3.yy",},
+    {"name":"AMBIANCE_NIVEAU3","order":2,"path":"sounds/AMBIANCE_NIVEAU3/AMBIANCE_NIVEAU3.yy",},
+    {"name":"SELECTMENU","order":3,"path":"sounds/SELECTMENU/SELECTMENU.yy",},
+    {"name":"snd_footstep","order":1,"path":"sounds/snd_footstep/snd_footstep.yy",},
     {"name":"Amomongo","order":2,"path":"sprites/Amomongo/Amomongo.yy",},
     {"name":"bg_btn_jouer","order":1,"path":"sprites/bg_btn_jouer/bg_btn_jouer.yy",},
     {"name":"bg_title_screen","order":1,"path":"sprites/bg_title_screen/bg_title_screen.yy",},
@@ -64,7 +66,6 @@
     {"name":"Tikbalang","order":31,"path":"sprites/Tikbalang/Tikbalang.yy",},
     {"name":"tiles_niv3lalave","order":1,"path":"sprites/tiles_niv3lalave/tiles_niv3lalave.yy",},
     {"name":"titre_rien","order":3,"path":"sprites/titre_rien/titre_rien.yy",},
-    {"name":"Tiyanak","order":32,"path":"sprites/Tiyanak/Tiyanak.yy",},
     {"name":"Witch","order":33,"path":"sprites/Witch/Witch.yy",},
     {"name":"Tiles_bridge","order":1,"path":"tilesets/Tiles_bridge/Tiles_bridge.yy",},
     {"name":"Tiles_lvl3","order":2,"path":"tilesets/Tiles_lvl3/Tiles_lvl3.yy",},

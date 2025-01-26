@@ -1,1 +1,1 @@
-audio_play_sound(NIVEAU3, 1, true);
+audio_play_sound(AMBIANCE_NIVEAU3, 1, true);
