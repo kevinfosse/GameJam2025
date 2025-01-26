@@ -1,5 +1,6 @@
 {
   "FolderOrderSettings":[
+    {"name":"Boss3","order":1,"path":"folders/Sprites/Enemies/Boss3.yy",},
     {"name":"Rival","order":1,"path":"folders/Sprites/Enemies/Rival.yy",},
   ],
   "ResourceOrderSettings":[
@@ -16,8 +17,10 @@
     {"name":"obj_config_monde2","order":3,"path":"objects/obj_config_monde2/obj_config_monde2.yy",},
     {"name":"obj_cow","order":1,"path":"objects/obj_cow/obj_cow.yy",},
     {"name":"obj_enemy_rival","order":1,"path":"objects/obj_enemy_rival/obj_enemy_rival.yy",},
+    {"name":"obj_enemy_witch","order":1,"path":"objects/obj_enemy_witch/obj_enemy_witch.yy",},
     {"name":"obj_interactible_daron","order":1,"path":"objects/obj_interactible_daron/obj_interactible_daron.yy",},
     {"name":"obj_interactible_frog","order":8,"path":"objects/obj_interactible_frog/obj_interactible_frog.yy",},
+    {"name":"obj_interactible_witch","order":2,"path":"objects/obj_interactible_witch/obj_interactible_witch.yy",},
     {"name":"obj_invisible_wall","order":5,"path":"objects/obj_invisible_wall/obj_invisible_wall.yy",},
     {"name":"obj_new_spawn","order":4,"path":"objects/obj_new_spawn/obj_new_spawn.yy",},
     {"name":"obj_return_initializer","order":3,"path":"objects/obj_return_initializer/obj_return_initializer.yy",},
@@ -25,6 +28,7 @@
     {"name":"obj_rocher","order":5,"path":"objects/obj_rocher/obj_rocher.yy",},
     {"name":"obj_stalactite","order":2,"path":"objects/obj_stalactite/obj_stalactite.yy",},
     {"name":"obj_tente","order":1,"path":"objects/obj_tente/obj_tente.yy",},
+    {"name":"Object62","order":4,"path":"objects/Object62/Object62.yy",},
     {"name":"rm_monde3","order":1,"path":"rooms/rm_monde3/rm_monde3.yy",},
     {"name":"AMBIANCE_NIVEAU3","order":2,"path":"sounds/AMBIANCE_NIVEAU3/AMBIANCE_NIVEAU3.yy",},
     {"name":"PETSOUND","order":4,"path":"sounds/PETSOUND/PETSOUND.yy",},
@@ -40,6 +44,7 @@
     {"name":"Buwaya","order":7,"path":"sprites/Buwaya/Buwaya.yy",},
     {"name":"cascade","order":3,"path":"sprites/cascade/cascade.yy",},
     {"name":"Chicken87","order":9,"path":"sprites/Chicken87/Chicken87.yy",},
+    {"name":"combat_lvl3_lebouseuh","order":4,"path":"sprites/combat_lvl3_lebouseuh/combat_lvl3_lebouseuh.yy",},
     {"name":"Dwende_Blue","order":11,"path":"sprites/Dwende_Blue/Dwende_Blue.yy",},
     {"name":"Dwende_Orange","order":12,"path":"sprites/Dwende_Orange/Dwende_Orange.yy",},
     {"name":"Dwende_Red","order":13,"path":"sprites/Dwende_Red/Dwende_Red.yy",},
@@ -71,6 +76,9 @@
     {"name":"spr_rochelv2","order":2,"path":"sprites/spr_rochelv2/spr_rochelv2.yy",},
     {"name":"spr_rochenv3","order":4,"path":"sprites/spr_rochenv3/spr_rochenv3.yy",},
     {"name":"spr_stalacaca","order":5,"path":"sprites/spr_stalacaca/spr_stalacaca.yy",},
+    {"name":"spr_witch_back","order":3,"path":"sprites/spr_witch_back/spr_witch_back.yy",},
+    {"name":"spr_witch_left","order":1,"path":"sprites/spr_witch_left/spr_witch_left.yy",},
+    {"name":"spr_witch_right","order":2,"path":"sprites/spr_witch_right/spr_witch_right.yy",},
     {"name":"Syokoy","order":28,"path":"sprites/Syokoy/Syokoy.yy",},
     {"name":"Taong_Tuod","order":29,"path":"sprites/Taong_Tuod/Taong_Tuod.yy",},
     {"name":"Tiburones","order":30,"path":"sprites/Tiburones/Tiburones.yy",},
