@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_daron_idle_front",
-    "path":"sprites/spr_daron_idle_front/spr_daron_idle_front.yy",
+    "name":"spr_dummy",
+    "path":"sprites/spr_dummy/spr_dummy.yy",
   },
   "spriteMaskId":null,
   "visible":true,

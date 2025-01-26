@@ -6,7 +6,7 @@ if (is_walking) {
     } else {
         walk_speed = 0.5 // Vitesse normale
     }
-
+    
     // La vache est en train de marcher
     walk_timer -= 1;
     if (walk_timer <= 0) {

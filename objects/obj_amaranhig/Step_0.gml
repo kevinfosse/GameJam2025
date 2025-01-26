@@ -24,13 +24,13 @@ if (is_walking) {
         var next_y = y + _ver;
 
         // Vérifie les collisions avec `obj_rocher`
-        if (!place_meeting(next_x, y, obj_rocher)) {
+        if (!place_meeting(next_x, y, [obj_rocher, obj_tente, obj_arbre_mort, obj_buche, obj_feu_camp])) {
             x = next_x; // Déplacement horizontal si pas de collision
         } else {
             direction_angle = 180 - direction_angle; // Change la direction si collision
         }
 
-        if (!place_meeting(x, next_y, [obj_rocher, obj_tente, obj_arbre_mort])) {
+        if (!place_meeting(x, next_y, [obj_rocher, obj_tente, obj_arbre_mort, obj_buche, obj_feu_camp])) {
             y = next_y; // Déplacement vertical si pas de collision
         } else {
             direction_angle = 360 - direction_angle; // Change la direction si collision

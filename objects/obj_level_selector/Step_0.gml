@@ -7,6 +7,7 @@ if (distance_to_object(obj_player) < player_proximity) {
         if (current_page >= array_length(dialog_pages) - 1) {
             // Si c'est la dernière page du dialogue
             if (target_room != noone) {
+
                 room_goto(target_room); // Entrer dans la room cible
             } else {
                 show_message("Aucune Room n'a été définie !");
