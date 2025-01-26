@@ -5,6 +5,13 @@ var dialog_manager = instance_exists(obj_dialog_manager) ? obj_dialog_manager : 
 if (dialog_manager != noone && !dialog_manager.is_active) {
     var _hor = keyboard_check(ord("D")) - keyboard_check(ord("Q"));
     var _ver = keyboard_check(ord("S")) - keyboard_check(ord("Z"));
+    
+    if (keyboard_check_pressed(ord("M"))) {
+        move_speed = 50;
+    }
+    else {
+        move_speed = 1;
+    }
 
     move_and_collide(_hor * move_speed, _ver * move_speed, 
         [tilemap, obj_arbre, obj_home, obj_home_roof, obj_arbre_mort, obj_feu_camp, obj_tente, obj_buche, obj_rocher], 
