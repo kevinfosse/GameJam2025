@@ -1,4 +1,4 @@
-if (is_active) {
+if (is_active && current_page < array_length(dialog_pages)) {
     // Draw dialog box
     draw_set_color(c_black);
     draw_set_alpha(0.8);
@@ -7,7 +7,7 @@ if (is_active) {
     
     // Draw text
     draw_set_color(c_white);
-    draw_set_font(fnt_dialog); // Create this font in GMS
+    draw_set_font(fnt_dialog);
     var displayed_text = string_copy(dialog_pages[current_page], 1, text_progress);
     draw_text_ext(dialog_x + 20, dialog_y + 20, displayed_text, 25, dialog_width - 40);
 }

@@ -1,5 +1,5 @@
 if (is_active) {
-    if (keyboard_check_pressed(ord("E"))) {
+    if (mouse_check_button_pressed(mb_left)) {
         if (text_progress < string_length(dialog_pages[current_page])) {
             // Show full text immediately
             text_progress = string_length(dialog_pages[current_page]);
