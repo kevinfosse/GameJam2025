@@ -14,6 +14,7 @@
     {"name":"inst_33230E68","path":"rooms/rm_hub/rm_hub.yy",},
     {"name":"inst_32B18982","path":"rooms/rm_hub/rm_hub.yy",},
     {"name":"inst_49FF858A","path":"rooms/rm_hub/rm_hub.yy",},
+    {"name":"inst_313A056D","path":"rooms/rm_hub/rm_hub.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -44,6 +45,9 @@
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_interactible_teleporter","path":"objects/obj_interactible_teleporter/obj_interactible_teleporter.yy",},"propertyId":{"name":"target_room","path":"objects/obj_interactible_teleporter/obj_interactible_teleporter.yy",},"resource":{"name":"rm_monde2","path":"rooms/rm_monde2/rm_monde2.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"rm_monde2",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":928.0,"y":480.0,},
         {"$GMRInstance":"v1","%Name":"inst_49FF858A","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_49FF858A","objectId":{"name":"obj_interactible_frog","path":"objects/obj_interactible_frog/obj_interactible_frog.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":904.0,"y":565.0,},
+        {"$GMRInstance":"v1","%Name":"inst_313A056D","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_313A056D","objectId":{"name":"obj_interactible_teleporter","path":"objects/obj_interactible_teleporter/obj_interactible_teleporter.yy",},"properties":[
+            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_interactible_teleporter","path":"objects/obj_interactible_teleporter/obj_interactible_teleporter.yy",},"propertyId":{"name":"target_room","path":"objects/obj_interactible_teleporter/obj_interactible_teleporter.yy",},"resource":{"name":"rm_monde3","path":"rooms/rm_monde3/rm_monde3.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"rm_monde3",},
+          ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1024.0,"y":544.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRTileLayer":"","%Name":"Tile_Back","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Tile_Back","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":68,"SerialiseWidth":120,"TileCompressedData":[
           -3055,-2147483648,1,0,-119,-2147483648,1,0,-4,-2147483648,-4,0,-107,-2147483648,1,0,-3,-2147483648,8,
