@@ -1,5 +1,7 @@
 event_inherited();
 
+lock_alpha = 1;
+
 change_room = function () {
     room_goto(target_room);
 }
@@ -9,6 +11,7 @@ handle_dialog = function() {
         start_dialog();
     } else if (obj_dialog_manager.current_page >= array_length(obj_dialog_manager.dialog_pages) - 1) {
         end_dialog();
-        change_room();
+        if (!locked)
+            change_room();
     }
 }

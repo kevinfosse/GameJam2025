@@ -3,6 +3,8 @@
   "%Name":"obj_interactible_teleporter",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"obj_interactible_teleporter",
@@ -32,6 +34,7 @@
     {"$GMObjectProperty":"v1","%Name":"target_room","filters":[
         "GMRoom",
       ],"listItems":[],"multiselect":false,"name":"target_room","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"rm_hub","path":"rooms/rm_hub/rm_hub.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"rm_hub","varType":5,},
+    {"$GMObjectProperty":"v1","%Name":"locked","filters":[],"listItems":[],"multiselect":false,"name":"locked","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"False","varType":3,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
