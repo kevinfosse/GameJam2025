@@ -1,3 +1,4 @@
+event_inherited();
 // Variables pour le mouvement
 walk_speed = 0.2; // Vitesse de marche
 walk_timer = 0; // Temps restant pour marcher

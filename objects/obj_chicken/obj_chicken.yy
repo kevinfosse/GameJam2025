@@ -12,7 +12,10 @@
     "name":"monde1",
     "path":"folders/Objects/monde1.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_interactible_love",
+    "path":"objects/obj_interactible_love/obj_interactible_love.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

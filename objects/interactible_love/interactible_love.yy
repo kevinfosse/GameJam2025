@@ -1,20 +1,21 @@
 {
   "$GMObject":"",
-  "%Name":"obj_cow",
+  "%Name":"interactible_love",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_cow",
+  "name":"interactible_love",
   "overriddenProperties":[],
   "parent":{
-    "name":"monde1",
-    "path":"folders/Objects/monde1.yy",
+    "name":"interactible_love",
+    "path":"folders/Objects/interactible/interactible_love.yy",
   },
   "parentObjectId":{
-    "name":"obj_interactible_love",
-    "path":"objects/obj_interactible_love/obj_interactible_love.yy",
+    "name":"obj_interactible",
+    "path":"objects/obj_interactible/obj_interactible.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,
@@ -33,10 +34,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"sp_cow_walk",
-    "path":"sprites/sp_cow_walk/sp_cow_walk.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

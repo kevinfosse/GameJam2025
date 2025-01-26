@@ -1,3 +1,5 @@
+event_inherited();
+
 // Gestion du temps de marche ou d'arrêt
 if (is_walking) {
     // Vérifie l'easter egg : touches "A" + "P"
